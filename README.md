@@ -13,7 +13,9 @@
 ```                                                                         
                                                                          
 ### Kreirao Xegzg - http://github.com/xegzg
+### Kontakt email - xeg.zg89@gmail.com
 ### Antivirus scan: https://www.virustotal.com/#/file/35670e244d0c1a7b395e21d488987ba7ceaee5fd9f045ab117c581fcca466be1/detection
+#### Ukoliko imate upite, slobodno se obratite na email, ukoliko se odlučim objaviti kod biti će tu objavljen na ovom githubu od originalnog launchera i bypass-a.
                           
 ### Opcenite informacije:
 Ovaj anticheat bypass ili ti ga (crack ako je nekom lakse shvatit) ce biti updatean sa svakom novom verzijom LB Anticheat-a.
