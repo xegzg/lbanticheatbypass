@@ -13,6 +13,7 @@
 ```                                                                         
                                                                          
 ### Kreirao Xegzg - http://github.com/xegzg
+### Antivirus scan: https://www.virustotal.com/#/file/35670e244d0c1a7b395e21d488987ba7ceaee5fd9f045ab117c581fcca466be1/detection
                           
 ### Opcenite informacije:
 Ovaj anticheat bypass ili ti ga (crack ako je nekom lakse shvatit) ce biti updatean sa svakom novom verzijom LB Anticheat-a.
